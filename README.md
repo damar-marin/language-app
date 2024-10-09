@@ -27,10 +27,9 @@
 ## Features
 
 - Supports more than 100 languages for reading, writing, and speaking practice.
-- Writing practice with real-time feedback on grammar and syntax.
-- Speaking exercises with speech recognition for pronunciation improvements.
+- Writing practice with feedback.
+- Speaking exercises with speech recognition.
 - Progress tracking for each user across all languages.
-- Multi-platform compatibility: works on desktop and mobile devices.
 
 ## Screenshot
 
@@ -54,12 +53,12 @@
     
 ## Goals
 
-This app aims to make language learning accessible to everyone, regardless of their native language. Whether you're learning a new language for fun or studying it for work or travel, this app provides a robust set of tools to help you improve.
+This app aims to make language learning accessible to everyone, regardless of their native language. Whether you're learning a new language for fun or studying it for work or travel, this app provides a set of tools to help you improve.
 
 ## Vision
 
 - Support even more languages and dialects.
-- Expand features to include cultural insights and language-based games.
+- Expand features to include cultural insights.
 - Make language learning an enjoyable and immersive experience.
 
 ## Made with ❤️ for language learners!
