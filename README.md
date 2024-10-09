@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌍 Language Learning App with Python & KivyMD 🌍
+  🌍 Language Learning App with Python 🌍
 </h1>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <table border="0">
   <tr>
     <td align="center">
-      This app helps users practice reading, writing, and speaking in more than 100 languages. Built with Python and KivyMD, it provides a seamless and interactive experience for language learners of all levels. The app includes features like speech recognition, writing exercises, and real-time pronunciation feedback.
+      This app helps users practice reading, writing, and speaking in more than 100 languages. Built with Python, it provides an interactive experience for language learners of all levels. The app includes features like speech recognition, writing exercises, and user leaderboards.
     </td>
     <td align="center">
       YouTube video showcasing the app
@@ -28,7 +28,7 @@
 - [KivyMD](https://kivymd.readthedocs.io/en/latest) for cross-platform GUI development
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) for speech input processing
 - [Google Translate API](https://cloud.google.com/translate/docs) for language translations
-- [SQLite](https://www.sqlite.org/index.html) for storing user progress and data
+- [pypinyin](https://pypi.org/project/pypinyin/) for converting Chinese characters to Pinyin
 
 ## Features
 
@@ -64,11 +64,7 @@
     ```bash
     python main.py
     ```
-
-## Documentation
-
-Full documentation is available in the repo at [docs/README.md](docs/README.md).
-
+    
 ## Goals
 
 This app aims to make language learning accessible to everyone, regardless of their native language. Whether you're learning a new language for fun or studying it for work or travel, this app provides a robust set of tools to help you improve.
@@ -79,4 +75,4 @@ This app aims to make language learning accessible to everyone, regardless of th
 - Expand features to include cultural insights and language-based games.
 - Make language learning an enjoyable and immersive experience.
 
-## Made with ❤️ by an amazing community of developers!
+## Made with ❤️ for language learners!
