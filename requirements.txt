@@ -1,0 +1,10 @@
+gTTS
+nltk
+deep-translator
+pypinyin
+soundcard
+soundfile
+numpy
+speechrecognition
+kivy
+kivymd
