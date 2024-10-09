@@ -33,7 +33,7 @@
 
 ## Screenshot
 
-![screenshot](https://user-images.githubusercontent.com/YOUR_USERNAME/language-learning-app/screenshot.png)
+![screenshot](screenshot.png)
 
 ## Quickstart
 
