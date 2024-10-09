@@ -2,12 +2,6 @@
   🌍 Language Learning App with Python 🌍
 </h1>
 
-<div align="center">
-
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/YOUR_GITHUB_USERNAME/language-learning-app.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/YOUR_GITHUB_USERNAME/language-learning-app/alerts/)
-
-</div>
-
 <table border="0">
   <tr>
     <td align="center">
@@ -37,13 +31,6 @@
 - Speaking exercises with speech recognition for pronunciation improvements.
 - Progress tracking for each user across all languages.
 - Multi-platform compatibility: works on desktop and mobile devices.
-
-## GitHub Actions
-
-| Tag | Name | Triggers | Results |
-| :--- |  :---  |  :--- | :--- |
-| [![CI status](https://github.com/YOUR_GITHUB_USERNAME/language-learning-app/workflows/CI/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/language-learning-app/actions/workflows/ci.yml) | Continuous Integration | Pushes & Pull Request | Run tests, build, and lint code |
-| [![Docs status](https://github.com/YOUR_GITHUB_USERNAME/language-learning-app/workflows/Docs/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/language-learning-app/actions/workflows/docs.yml) | Docs | Pushes to main branch | Builds and deploys project documentation |
 
 ## Screenshot
 
